@@ -10,7 +10,7 @@ import {
 import { Button, Block, Input, Text } from "../components";
 import { theme } from "../constants";
 
-export default class SignUp extends Component {
+export default class Signup extends Component {
   state = {
     email: null,
     username: null,

@@ -252,7 +252,7 @@ class Welcome extends Component {
           <Button
             shadow
             color="#0AC4BA"
-            onPress={() => navigation.navigate("SignUp")}
+            onPress={() => navigation.navigate("Signup")}
           >
             <Text center semibold white>
               Signup

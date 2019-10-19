@@ -5,7 +5,7 @@ import { createStackNavigator } from "react-navigation-stack";
 
 import Welcome from "../screens/Welcome";
 import Login from "../screens/Login";
-import SignUp from "../screens/SignUp";
+import Signup from "../screens/Signup";
 import Forgot from "../screens/Forgot";
 import Browse from "../screens/Browse";
 import Explore from "../screens/Explore";
@@ -18,7 +18,7 @@ const screens = createStackNavigator(
   {
     Welcome,
     Login,
-    SignUp,
+    Signup,
     Forgot,
     Browse,
     Explore,
